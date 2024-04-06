@@ -1,0 +1,48 @@
+[
+    {
+      "id": "1",
+      "title": "Part-Time Content Writer",
+      "description": "We are looking for a talented content writer to create engaging articles for our blog.",
+      "type": "Part-time",
+      "location": "Remote",
+      "timings": "Flexible",
+      "remote": true,
+      "skills": ["Excellent writing skills", "Ability to research and produce high-quality content"],
+      "deadline": "2024-05-15",
+      "contact": {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "phone": "+1 123-456-7890"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Software Engineering Intern",
+      "description": "Join our team as a software engineering intern and work on exciting projects.",
+      "type": "Internship",
+      "location": "New York, NY",
+      "timings": "20 hours per week",
+      "skills": ["Programming skills in Java, Python, or JavaScript", "Understanding of software development lifecycle"],
+      "deadline": "2024-05-30",
+      "contact": {
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "phone": "+1 987-654-3210"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Volunteer Coordinator",
+      "description": "We need a volunteer coordinator to manage our community service programs.",
+      "type": "Volunteering",
+      "location": "Los Angeles, CA",
+      "timings": "10-15 hours per week",
+      "skills": ["Excellent communication skills", "Organizational skills", "Experience in volunteer management"],
+      "contact": {
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "phone": "+1 555-123-4567"
+      }
+    }
+  ]
+  

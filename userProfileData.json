@@ -1,0 +1,9 @@
+
+{
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "skills": ["React", "JavaScript", "HTML", "CSS"],
+    "availability": "Flexible",
+    "preferences": "Remote work preferred"
+  }
+  
